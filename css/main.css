@@ -46,8 +46,13 @@ width: 100%;
     text-shadow: 2px 3px 0 #c0bfbf;
 }
 
+.star {
+    width: 1.5em;
+}
 
-
+.masthead {
+    text-align: center;
+}
 
 
 
